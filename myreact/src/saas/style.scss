@@ -1,0 +1,74 @@
+body {
+  
+}
+
+.notification code, .notification pre {
+  background: transparent;
+  padding: 0;
+}
+
+
+.qb-container {
+
+
+  .rule-group {
+    border: 1px solid #9b9b9b;
+    padding: 12px;
+
+    .rule-group {
+      background-color: #50505025;
+    }
+  }
+  .rule {
+    background-color: #e6eeff;
+    border: 1px solid #b4b4b4;
+    padding: 12px;
+    margin: 10px 0;
+    display: flex;
+  }
+
+  .button {
+
+  }
+  .btn-add-rule {
+    margin: 0 10px 0 0;
+  }
+  .btn-add-group {
+    margin: 0 10px 0 0;
+  }
+  .select {
+    border: 1px solid transparent;
+    box-shadow: none;
+    height: 2.5em;
+    line-height: 1.5;
+    padding-bottom: calc(.5em - 1px);
+    padding-left: calc(.75em - 1px);
+    padding-right: calc(.75em - 1px);
+    padding-top: calc(.5em - 1px);
+    position: relative;
+    background-color: #fff;
+    color: #363636;
+    cursor: pointer;
+    display: block;
+    max-width: 100%;
+    outline: 0;
+    margin-right: 1em;
+    border-radius: 2px;
+    font-size: .75rem;
+  }
+  .select-combinator {
+    margin: 0 0 10px 0;
+  }
+  .select-field {
+
+  }
+  .select-operator {
+
+  }
+  .input {
+  }
+  .input-value {
+    max-width: 50%;
+    margin-right: 1em;
+  }
+}
